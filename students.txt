@@ -1,2 +1,4 @@
 Name: Ravi 
 Department: CSE 
+Name: Kumar 
+Department: ECE 
